@@ -1,4 +1,5 @@
 # Although not the most ideal fibonacci solver, it's efficient enough to deal with this problem.
+# Kata can be found here: https://www.codewars.com/kata/53d40c1e2f13e331fc000c26
 def fib(n):
     if 0 <= n < 2:
         return n
